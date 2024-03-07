@@ -15,7 +15,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ### Available Scripts
 
-First you have to run ### npm i to install all the required modules in the project directory,
+First you have to run,
+
+npm i or npm install
+
+to install all the required modules in the project directory,
 then you can run:
 
 #### npm run dev
