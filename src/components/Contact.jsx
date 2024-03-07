@@ -44,7 +44,7 @@ const Contact = () => {
   };
 
   return (
-    <div className="w-[30vw] mx-auto p-6 bg-white rounded-lg shadow-lg font-serif">
+    <div className="w-[30%] mx-auto p-6 bg-white rounded-lg shadow-lg font-serif">
       <div className='title flex items-center justify-center'>
         <h2 className="text-2xl text-[#3C3633] font-semibold uppercase mb-4">Contact Us</h2>
       </div>
